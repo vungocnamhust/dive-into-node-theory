@@ -1,6 +1,6 @@
 # Dive into Node theory
 
-This is an explaination of Node.Js using an Node.Js application.
+This is an explaination the theory of Node.Js through a Node.Js structure application.
 You can see this project by embedding into Obsidian
 
 ## Structure Graph
