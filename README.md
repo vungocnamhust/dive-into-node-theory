@@ -1,7 +1,7 @@
 # Dive into Node theory
 
-This is an explaination the theory of Node.Js through a structure of Node.Js project.
-You can see this project by embedding into Obsidian
+This is an  An explanation of how a Node.Js application works through analyzing a structure of Node.Js project.
+You can see this project by embedding into Obsidian.
 
 ## Structure Graph
 ![image](https://user-images.githubusercontent.com/49335373/199670389-bb04f2ea-a74d-434e-a4b3-577484d3c569.png)
